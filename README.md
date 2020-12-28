@@ -7,11 +7,11 @@ Paper link- https://arxiv.org/abs/1504.08083
 -This repository also contains an RPN (Region Proposal Network) model which can be trained instead of using the pre-trained model.
 
 **Results**
-![](7.6.1.png)
-![](7.6.1.png)
-![](7.6.1.png)
-![](7.6.1.png)
-![](7.6.1.png)
+![](6.5.2.png)
+![](6.5.4.png)
+![](6.5.6.png)
+![](6.5.8.png)
+![](6.5.10.png)
 
 
 

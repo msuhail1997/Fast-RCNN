@@ -1,4 +1,4 @@
-# Faster-RCNN
+# Object Detection with Faster-RCNN
 
 Paper link- https://arxiv.org/abs/1504.08083
 

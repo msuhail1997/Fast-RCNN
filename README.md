@@ -11,7 +11,6 @@ Paper link- https://arxiv.org/abs/1504.08083
 
 ![](6.5.4.png)
 ![](6.5.6.png)
-![](6.5.8.png)
 ![](6.5.10.png)
 ![](6.5.12.png)
 
